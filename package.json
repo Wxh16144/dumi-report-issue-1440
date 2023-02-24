@@ -1,5 +1,5 @@
 {
-  "name": "my-self-test",
+  "name": "report-issue-1440",
   "version": "0.0.1",
   "description": "A static site based on dumi",
   "scripts": {
@@ -26,6 +26,8 @@
     "dumi": "^2.0.2",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }

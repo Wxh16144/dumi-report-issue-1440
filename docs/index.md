@@ -1,23 +1,22 @@
 ---
 title: A static site based on dumi
 hero:
-  title: Site
-  description: A static site based on dumi
-  actions:
-    - text: Hello
-      link: /
-    - text: World
-      link: /
-features:
-  - title: Hello
-    emoji: 💎
-    description: Put hello description here
-  - title: World
-    emoji: 🌈
-    description: Put world description here
-  - title: '!'
-    emoji: 🚀
-    description: Put ! description here
+  title: issue#1440
 ---
 
 my-self-test
+
+
+# test
+
+## bar
+
+<code src="./bar/demo/index.tsx"></code>
+
+## foo
+
+<code src="./foo/demo/index.tsx"></code>
+
+## baz
+
+<code src="./baz/demo/index.tsx"></code>

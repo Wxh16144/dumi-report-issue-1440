@@ -1,4 +1,7 @@
-# my-self-test
+# report-issue-1440
+
+Recurrence bug [umijs/dumi#1440](https://github.com/umijs/dumi/issues/1440)
+
 
 A static site base on [dumi](https://d.umijs.org).
 
